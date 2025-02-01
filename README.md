@@ -1,5 +1,3 @@
-# Unciv-mod-example
+# Civ V Music Pack
 
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+Adds the Civ V theme to UnCiv.
